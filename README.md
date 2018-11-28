@@ -3,6 +3,8 @@ On va développer une application cloud qui permet de convertir des documents  e
 
 
 Les applications cloud sont mieux déployées en tant que collection de services cloud ou d’Interface de Programmation Applicative (API) c'est pour cette raison qu'on a préféré de concevoir notre application sous la forme d'un ensemble de services-web. C’est une architecture basée essentiellement sur le service.Lorsque on développe une architecture d’application pour le cloud, on traite des systèmes distribués complexes qui peuvent tirer parti des applications faiblement couplées basées sur de nombreux services pouvant également être dissociés des données . On peut séparer physiquement les services d’application, les exécuter sur les instances de machine appropriées, et les gestionnaires de service/API ainsi que la technologie de gouvernance qui fournissent des répertoires de services pouvant nous être utiles dans le suivi des nombreux services qui composent notre application.
+
+
 ![web service](https://user-images.githubusercontent.com/44167156/49147375-ce381200-f304-11e8-8bc6-9ff0b6ef11dc.jpg)
 
  
