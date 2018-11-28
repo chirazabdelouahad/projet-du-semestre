@@ -17,6 +17,7 @@ Pour implémenter notre travail, on va utiliser le langage java qui permet de mi
 On a opté pour la plateforme OpenShift qui est une plateforme de Conteneurs-as-a-Service dont l’objectif est de simplifier la gestion des environnements de production qu’ils soient métiers ou IT, hébergés en mode Cloud ou non. cette plateforme apporte un ensemble d’outils open source basés sur les conteneurs.Ces derniers accélèrent le développement et le déploiement des applications et en même temps optimisent l’utilisation des infrastructures.
 
 
+![circles](https://user-images.githubusercontent.com/44167156/49147588-63d3a180-f305-11e8-98db-3b22e0454557.jpg)
 
 
 
